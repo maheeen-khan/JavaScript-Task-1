@@ -8,4 +8,6 @@ var result = (ObtainedMarks * 100) / totalMarks;
 
 var grade = 'A+';
 
-console.log("Congratulations! Your Grade is : "+ grade + " and Percentage is " + result);
+alert("Result has been anounced!");
+
+console.log("Congratulations! Your Grade is : "+ grade + " \nand Percentage is " + result);
